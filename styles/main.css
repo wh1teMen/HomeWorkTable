@@ -1,0 +1,7 @@
+
+.Table{border: 1PX SOLID black; border-collapse: collapse; font-family: Arial, Helvetica, sans-serif;margin: 15px;}
+.Table th {border: 1px solid black; font-family: Arial, Helvetica, sans-serif;padding:  8px 20px;font-size: 16px;}  
+.Table td{border: 1px solid black; text-align: center;font-size: 16px;padding: 7px 7px; }
+.V{font-weight: bold;font-family: Arial, Helvetica, sans-serif;font-size: 16px;}
+.symb{font-weight: bold;font-family: Arial, Helvetica, sans-serif;}
+.title{font-family: Arial, Helvetica, sans-serif; font-size: 16px;}
